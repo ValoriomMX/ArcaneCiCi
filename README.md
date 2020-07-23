@@ -6,9 +6,7 @@
 - 💬 Ask me about how <a href="https://github.com/AeroClient">Aero Client</a> works.
 <br>
 <br>
-</strong>
 - 📫 How to reach me:
-<strong>
 <br>
 <br>
 - Discord: ArcaneCiCi#2281
