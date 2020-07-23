@@ -5,13 +5,12 @@
 - 💬 Ask me about how <a href="https://github.com/AeroClient">Aero Client</a> works.
 <br>
 </strong>
-<details>
-<summary>- 📫 How to reach me:</summary>
+- 📫 How to reach me:
 <strong>
+<br>
 - Discord: ArcaneCiCi#2281
 <br>
 - Twitter: <a href="https://twitter.com/ArcaneCiCi">ArcaneCiCi</a>
 <br>
 - Telegram: <a href="https://t.me/ArcaneCiCi">ArcaneCiCi</a>
 </strong>
-</details>
