@@ -10,11 +10,5 @@
 - 📫 How to reach me:
 <br>
 <br>
-- Discord: ArcaneCiCi#2281
-<br>
-<br>
-- Twitter: <a href="https://twitter.com/ArcaneCiCi">ArcaneCiCi</a>
-<br>
-<br>
 - Telegram: <a href="https://t.me/ArcaneCiCi">ArcaneCiCi</a>
 </strong>
