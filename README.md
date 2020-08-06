@@ -7,8 +7,5 @@
 - 💬 Ask me about how <a href="https://github.com/AeroClient">Aero Client</a> works.
 <br>
 <br>
-- 📫 How to reach me:
-<br>
-<br>
-- Telegram: <a href="https://t.me/ArcaneCiCi">ArcaneCiCi</a>
+- 📫 You may reach me on Telegram: <a href="https://t.me/ArcaneCiCi">ArcaneCiCi</a>
 </strong>
