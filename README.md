@@ -1,4 +1,4 @@
-### Hi! I'm Arcane.
+### Hi! I'm ArcaneCiCi!
 -------------------
 <strong>
 - 🔭 I’m currently working on <a href="https://github.com/KitsRIP">Kits</a>, and <a href="https://github.com/ArcaneCiCi/Reliant">Reliant</a>.
