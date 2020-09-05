@@ -1,7 +1,7 @@
 ### Hi! I'm ArcaneCiCi!
 -------------------
 <strong>
-- 🔭 I’m currently working on <a href="https://github.com/KitsRIP">Kits</a>, and <a href="https://github.com/ArcaneCiCi/Reliant">Reliant</a>.
+- 🔭 I’m currently working on <a href="https://github.com/KitsRIP">Kits</a>, <a href="https://github.com/ArcaneCiCi/Reliant">Reliant</a>, and <a href="https://github.com/StrafePvP">StrafePvP</a>.
 <br>
 <br>
 - 💬 Ask me about <a href="https://github.com/Aero-Client">Aero Client</a>.
